@@ -34,7 +34,8 @@ with open("copy.txt",'w') as fp1:
 ### OUTPUT:
 ![image](https://github.com/pirateharishs/Copy-File/assets/166011385/40ec26cb-60e9-470b-8fd5-9f077a17ec17)
 
-![image](https://github.com/pirateharishs/Copy-File/assets/166011385/dd5d19c5-b54c-424b-839f-340fd22d5281)
+![image](https://github.com/pirateharishs/Copy-File/assets/166011385/3181816a-62d6-46be-8b8c-2ddaace9d111)
+
 
 ![image](https://github.com/pirateharishs/Copy-File/assets/166011385/4547be61-1beb-4075-a157-ffb71b10d48d)
 
