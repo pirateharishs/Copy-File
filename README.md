@@ -20,7 +20,7 @@ Get the inputs from the user for existing file and new file. Call the function.
 End the program.
 
 ## PROGRAM:
-'''
+```
 Developed by: HARISH S
 REG-NO: 212223230071
 with open("sam.txt",'r') as fp:
@@ -28,7 +28,7 @@ with open("sam.txt",'r') as fp:
 with open("copy.txt",'w') as fp1:
     fp1.write(msg1)
 
-'''
+```
 ### OUTPUT:
 ![image](https://github.com/pirateharishs/Copy-File/assets/166011385/40ec26cb-60e9-470b-8fd5-9f077a17ec17)
 
