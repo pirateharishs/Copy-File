@@ -21,8 +21,8 @@ End the program.
 
 ## PROGRAM:
 '''
-# Developed by: HARISH S
-# REG-NO: 212223230071
+Developed by: HARISH S
+REG-NO: 212223230071
 
 with open("sam.txt",'r') as fp:
     msg1=fp.read()
