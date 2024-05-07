@@ -23,12 +23,10 @@ End the program.
 '''
 Developed by: HARISH S
 REG-NO: 212223230071
-
 with open("sam.txt",'r') as fp:
     msg1=fp.read()
 with open("copy.txt",'w') as fp1:
     fp1.write(msg1)
-
 
 '''
 ### OUTPUT:
